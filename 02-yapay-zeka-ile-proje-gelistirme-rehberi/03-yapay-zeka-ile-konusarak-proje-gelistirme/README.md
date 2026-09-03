@@ -1,7 +1,8 @@
 # Bölüm 3 — Yapay Zeka ile Konuşarak Proje Geliştirme | ChatGPT ile Master Prompt, Claude ile Mind Map
 
-- Video: Yayın: 4 Eylül 2026, 13:00 — bağlantı yayından sonra eklenecek
+- Video: [https://www.youtube.com/watch?v=low60J40iHs](https://www.youtube.com/watch?v=low60J40iHs) (13:34)
 - Sitede: [https://fbsoftwaresolutions.com.tr/tutorials/yapay-zeka-ile-konusarak-proje-gelistirme/](https://fbsoftwaresolutions.com.tr/tutorials/yapay-zeka-ile-konusarak-proje-gelistirme/)
+- Devamı: [Bölüm 4 — Claude WordPress Sitesini Canlı Kuruyor](../04-claude-ile-mind-map-ve-wordpress-kurulumu/)
 
 Bu derste yapay zekayı gerçek bir projeyi baştan sona planlamak ve geliştirmek için kullanıyoruz — üstelik uzun uzun
 prompt yazmak yerine ChatGPT ile **canlı olarak konuşarak**. Kafamdaki proje fikrini ChatGPT'ye anlatıyorum;
